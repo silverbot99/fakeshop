@@ -41,6 +41,7 @@
 		84AE6E8C29D42CF0000D5394 = {
 			isa = PBXGroup;
 			children = (
+				84AE6EAC29D43345000D5394 /* README.md */,
 				84AE6E9729D42CF0000D5394 /* fakeshop */,
 				84AE6E9629D42CF0000D5394 /* Products */,
 			);
@@ -58,7 +59,6 @@
 			isa = PBXGroup;
 			children = (
 				84AE6E9829D42CF0000D5394 /* AppDelegate.swift */,
-				84AE6EAC29D43345000D5394 /* README.md */,
 				84AE6E9A29D42CF0000D5394 /* SceneDelegate.swift */,
 				84AE6E9C29D42CF0000D5394 /* ViewController.swift */,
 				84AE6E9E29D42CF0000D5394 /* Main.storyboard */,
