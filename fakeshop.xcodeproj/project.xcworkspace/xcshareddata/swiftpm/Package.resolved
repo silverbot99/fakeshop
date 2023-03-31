@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "becd9a729a37bdbef5bc39dc3c702b99f9e3d046",
+        "version" : "5.2.2"
+      }
+    },
+    {
+      "identity" : "combinecocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CombineCommunity/CombineCocoa.git",
+      "state" : {
+        "revision" : "c31c85b6f8494247b69997324312dce8bf55b34b",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "combineext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CombineCommunity/CombineExt.git",
+      "state" : {
+        "revision" : "6664678135c6aec049c887a51c9da2545f184882",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "dto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuan188/Dto.git",
+      "state" : {
+        "revision" : "b5465f7c05ab53fa976ceac229deceb1b82c82ac",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "mbprogresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jdg/MBProgressHUD.git",
+      "state" : {
+        "revision" : "bca42b801100b2b3a4eda0ba8dd33d858c780b0d",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "pull-to-refresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/eggswift/pull-to-refresh.git",
+      "state" : {
+        "revision" : "a858aaeb44abc6428af916e8496429d244fac053",
+        "version" : "2.9.3"
+      }
+    },
+    {
+      "identity" : "validatedpropertykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SvenTiigi/ValidatedPropertyKit.git",
+      "state" : {
+        "revision" : "2e679bf96ef8b692c6b10cb01e143fd86e36f58f",
+        "version" : "0.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
